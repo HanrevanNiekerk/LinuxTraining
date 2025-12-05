@@ -1,6 +1,9 @@
 Create a new file:
 touch update.sh
 
+Enter Update.sh:
+nano ./update.sh
+
 Commands Needed:
 #!/bin/bash
 
