@@ -1,0 +1,2 @@
+# LinuxTraining
+A hands-on repository for learning Linux: mastering commands, permissions, package management, file editing, and system monitoring. Includes mini-projects, problem-solving exercises, and practical scripts to build real-world skills for servers, automation, and everyday Linux use.
